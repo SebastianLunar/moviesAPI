@@ -215,6 +215,46 @@
       "food": "sushi",
       "restaurant": "Outdoors Paradise",
       "price": 21.46
+    },
+    {
+      "id": 28,
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/988728384/apple-cranberry-oatmeal.jpg",
+      "name": "Nutty Oatmeal",
+      "food": "breakfast",
+      "restaurant": "Glamour Kafe",
+      "price": 8.90
+    },
+    {
+      "id": 29,
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2019/12/protein-powder-pancakes.jpg",
+      "name": "Protein Pancakes",
+      "food": "breakfast",
+      "restaurant": "Glamour Kafe",
+      "price": 11.50
+    },
+    {
+      "id": 30,
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/742292227/berry-yogurt-toast.jpg",
+      "name": "Ricotta Toast and Berries",
+      "food": "breakfast",
+      "restaurant": "Glamour Kafe",
+      "price": 12.10
+    },
+      {
+      "id": 31,
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/649591638/frozen-berry-banana-oatmeal.jpg",
+      "name": "Instant Oats with Protein Powder",
+      "food": "breakfast",
+      "restaurant": "Glamour Kafe",
+      "price": 15.65
+    },
+    {
+      "id": 32,
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2017/12/spinach-mushroom-omelet-flickr.jpg",
+      "name": "Spinach and Mushroom Omelet",
+      "food": "breakfast",
+      "restaurant": "Glamour Kafe",
+      "price": 13.65
     }
   ],
   "restaurants": [
@@ -226,7 +266,7 @@
       "name": "Pardes Restaurant",
       "food": "salad",
       "schedule": "09:30 - 23:00",
-      "stars": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654670897/media%20sprint2/Stars4_wyg9jh.png",
+      "stars": "four",
       "before": "4$"
     },
     {
@@ -237,7 +277,7 @@
       "name": "Glamour Kafe",
       "food": "breakfast",
       "schedule": "09:00 - 21:00",
-      "stars": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654670897/media%20sprint2/Stars3_okd9jh.png",
+      "stars": "three",
       "before": "13$"
     },
     {
@@ -248,7 +288,7 @@
       "name": "Aromat Bakery",
       "food": "pizzas",
       "schedule": "09:00 - 22:00",
-      "stars": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654670897/media%20sprint2/Stars5_vhqpbj.png",
+      "stars": "five",
       "before": "3$"
     },
     {
@@ -259,7 +299,7 @@
       "name": "Last night Restaurant & kafe",
       "food": "dinner",
       "schedule": "10:00 - 22:00",
-      "stars": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654670897/media%20sprint2/Stars4_wyg9jh.png",
+      "stars": "four",
       "before": "5$"
     },
     {
@@ -270,7 +310,7 @@
       "name": "The Deutch Grill",
       "food": "burgers",
       "schedule": "09:30 - 23:30",
-      "stars": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654670897/media%20sprint2/Stars5_vhqpbj.png",
+      "stars": "five",
       "before": "10$"
     },
     {
@@ -281,15 +321,11 @@
       "name": "Outdoors Paradise",
       "food": "sushi",
       "schedule": "10:30 - 22:30",
-      "stars": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654670897/media%20sprint2/Stars3_okd9jh.png",
+      "stars": "three",
       "before": "8$"
     }
   ],
   "users": [
-    {
-      "id": 1,
-      "user": "admin",
-      "password": "geek123"
-    }
+
   ]
 }
