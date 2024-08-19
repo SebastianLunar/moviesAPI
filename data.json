@@ -2,7 +2,7 @@
   "platos": [
     {
       "id": 1,
-      "image": "https://s3-alpha-sig.figma.com/img/c8b8/a905/780dc6fc25028f685c58b05ce20937da?Expires=1655683200&Signature=NAbkIw5xWsXnjn7Ic2hhEUjbb6mUkYvlRZygUM57aNBlOwmolXhpnxjPKjNJjh~ABbv53kAlnqWIRhG8ZxvhEOSpEm2HZzSPb~Vzk5QUPhrhDcfshn-K8vZIrr-b1jREDzfLNPBpA0cmVblaTt8C55KHZxWw8F1cm8bmvXLkMtxPc33MDSkld~xkNCYGycU47qn0~Yf52eGZfsiixmC~zlLimDbFYUBZBvLqxwC0UP4A-tYxW0Zxz~Awlr2GzwOV-ruBAsDyOYyL6IaUNCFidjlNf55Ua2ZJ7F0l-CcmOUoZeJ4F3euV9kVdaG7hqjW~3sE-r-m7XnG5yBIZefWBew__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Meat pizza",
       "food": "pizza",
       "restaurant": "Aromat Bakery",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "image": "https://s3-alpha-sig.figma.com/img/0ba6/2224/275b47e66dff7bc2c1f2b86600474985?Expires=1655683200&Signature=Ejf06yY9e9fTeoWeGCQIGZpqs2XeYqnr~xZyrOSi4mQhfgUzl7zOU1O3QWWYQn9kgWAZ2nDaDwjGYK5BWsubpxbSkfCHtmOiwvDIrTEqdXvIrENWkr~ChC0xtvZQy5MSNmjrs8ve6ntUijgluN8vM6Zh-oRXtWjga8SggUhjE7R~ikekA8aIpDGVMSb68Ko9pM~zSHLRXTRxy1RJneAllLXKH8vIJMJz~fo8lKXC2fsQ3kd0xxAAxtoYyDiqG5TWJR2~c8W9WRto3h-f5nDbP9Km-Nb8YYIJscVG5jNWiu9-1jRkGkeZoCy7FkAdr3JoYy-beAl1A6jz4aOmhYyrQw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "image": "https://images.unsplash.com/photo-1593246049226-ded77bf90326?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Combined pizza",
       "food": "pizza",
       "restaurant": "Aromat Bakery",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "image": "https://s3-alpha-sig.figma.com/img/6cd7/a406/cab58329e143ae182a749c29c55e3aaa?Expires=1655683200&Signature=ejMPGuPqCJ8yE2vglhWdfeEItAvTp42JXUNCclrv5ZctzdNQ4eKjd01QfUiqRK2-RhOeaugXpxWw9UjNkDFpAJqtThPDetG0ERwVK3lr5wk-39jdCtubMUwc1cTJDrpLPS6621NTL2EH2ViAM4~vetIWL3rT7q74hoyMZWDQPJjUdWqFYlCUl-wA0A1SJ6m-AfkgFpAVfIWUBM0NefRK5QG1B4jvaz5zXekD0UVgrrW4iaXkfbsSs5U6TeJF9tpirLPorWMeYMgLjv5ZcNCcKQwFsvOo5DHKmcz4vK6z~tstqh-IF-t8vubZz1V6aKnn~15g5Y7NunLBfurUAOyzng__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "image": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Pizza with meat and mushrooms",
       "food": "pizza",
       "restaurant": "Aromat Bakery",
@@ -26,7 +26,7 @@
     },
     {
       "id": 4,
-      "image": "https://s3-alpha-sig.figma.com/img/3913/71c1/a9ba49bd9f94301f1e23f75a419d8284?Expires=1655683200&Signature=bEVh-m1cVMLDNR8-toifmxqI73vXXqqWRQajrCbLV3PmFs70Qz3EomkJvYCVKFylaL7Dz3Uxu0-y7Ummr08ZgF48Obsi53YigQA8gTygJ~eGYx-3dFkBKtCzlSF-YfYj0ZfjOy5l0UkRDw5hPu0tL3CLRGVuGiZzJftV7K-HlL0ykl2LQXk8pGIfTiBejPg-QIOPYl4ihqla3AQyGN4VGccOml0bMZ5y65MNn5esTym2Z70Pr25I33djS~qMPPfqIl3lY9L0yYXLeu3AoLaGUVbLjDPs2-X9MhhnKbz9T6yp8M4blRHCzDVRSlXjUwvu8R1uDuqnoa1DP~seiNEBFQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "image": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Hawaiian pizza",
       "food": "pizza",
       "restaurant": "Aromat Bakery",
@@ -34,7 +34,7 @@
     },
     {
       "id": 5,
-      "image": "https://s3-alpha-sig.figma.com/img/2269/dc13/c7cdc1b7e79e17be3ef396a2870516a6?Expires=1655683200&Signature=QwkAFF5i-slrWYzMSTQ9GiOTsgAnGgvz36G7lFoYSsN6ONY4FluISxtoyzLV7bfU7hMqSNxrLsTtwCciTSYgsI5CdLCdC1tqiuCqL1Kb2es0NRRglHzuqQMbGGGJNnNEw229rhxI5ZPIFlX4oBtj6UteH78O4i7sE22pitC3ehDBogEgBTAYD-ZFe4T2F9TmW1ybG8wIeeQ5MGnzQF2A1H2r50BealPLSuCY92tVnLxjzvX8-PHI4Bhk0y8fpzbEyWp6d~cncy4915K8VTFgHBFpbQPrag3pGcmdQTvbkW2BnR8hB2wGsNVBKvu0sx6pHS9hZGxG9RViPE-nepPNEw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e?q=80&w=2742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Sausage pizza",
       "food": "pizza",
       "restaurant": "Aromat Bakery",
@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "image": "https://s3-alpha-sig.figma.com/img/9121/d4f0/fedea04c3fecbae98f8ca1619d9cdfac?Expires=1655683200&Signature=e~4ObhwL9OYygldCO84OrwCFU-J6FtQCtDabWf7aKYs1eLisPzlLt2j6TKenqEeRuZubbY8ehPdLqaKK1qk-hAf0tCREd4vs-N1PiX-3nPBhDpoghZQE9rgy6YKUg5OUA98GSw82qrxKg-JvEc-UgJFXHlIfN2TN~TOwsH~xjD-vlIBpGfYPTDMXVJyHe~tQwp46orfmMLd~K38VqiTXjvl62smGZFd1He9RSpS~Qm6vWYKSE7jg2PMqEY90XyWOwK6LECcBTqRUOF13Snlff14dqET7Ne45V66M5ZC2VcyPnSmPeoFPf3uw-Z7EcK~Zscyaoi2-opgzPZszzpScng__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?q=80&w=2869&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Vegetarian pizza",
       "food": "pizza",
       "restaurant": "Aromat Bakery",
