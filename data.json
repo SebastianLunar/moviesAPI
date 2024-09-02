@@ -326,6 +326,12 @@
     }
   ],
   "users": [
-
+    {
+      "id": 1,
+      "role": "admin",
+      "name": "Administrator",
+      "email": "adminFood@yopmail.com",
+      "password": "adminGeek123"
+    }
   ]
 }
